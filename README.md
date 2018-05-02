@@ -8,6 +8,8 @@ This is a clean and modern Free responsive app landing-page template for Mobile 
 - Clone the repo:https://github.com/robinbansal/App-Landing-Page.git
 - [Fork, Clone, or Download on GitHub](https://github.com/robinbansal/App-Landing-Page)
 
+## Live Preview
+  [View Live Preview](https://robinbansal.github.io/App-Landing_Page/)
 ## App-Landing-Page Template
 
   ![2018-04-28](https://user-images.githubusercontent.com/26331958/39387011-eb1a5a4a-4a94-11e8-82a5-0de955b9acc2.png)
